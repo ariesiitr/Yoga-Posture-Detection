@@ -37,6 +37,12 @@ can improve the pose.
 them to become more self-reliant and mitigating the risk of injuries caused due to
 improper yoga form.
 
+Some of the snapshots of detected posture are:
+![Screenshot from 2021-05-13 22-59-30](https://user-images.githubusercontent.com/72214219/119233324-11764300-bb46-11eb-9440-034422bbfe5e.png)
+![Screenshot from 2021-05-13 22-37-19](https://user-images.githubusercontent.com/72214219/119233347-2d79e480-bb46-11eb-839e-e39ee8931775.png)
+![WhatsApp Image 2021-05-22 at 9 34 49 PM](https://user-images.githubusercontent.com/72214219/119233385-6dd96280-bb46-11eb-8246-7915ef9b0194.jpeg)
+
+
 ## Result:
 Accuracy of our model is 90%. 
 
