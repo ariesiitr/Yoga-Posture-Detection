@@ -38,7 +38,7 @@ them to become more self-reliant and mitigating the risk of injuries caused due 
 improper yoga form.
 
 ## Result:
-Accuracy of the our model is 90%. 
+Accuracy of our model is 90%. 
 
 ## Surveys:
 * An online survey regarding adverse effects of yoga in absence of proper guidance was
